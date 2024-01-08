@@ -6,5 +6,4 @@ def capitalize_2(string):
     '''Capitalized String'''
     return string.capitalize()
 
-string = 'test'
-print(capitalize_2(string))
+print(capitalize_2('test'))
